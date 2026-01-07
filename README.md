@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Networkcali
-- 👀 I’m interested in coding, AI, machine learning, deep learning and visual process.
-- 🌱 I’m currently learning Python and SQL
-- 💞️ I’m looking to collaborate on Python and SQL
+- 👀 I’m interested in coding, AI and Linux.
+- 🌱 I’m currently learning Linux, WebDev, AI Operations and programming.
+- 💞️ I’m looking to collaborate on Linux, Cloud Engineering and Cloud Architect pathway.
+- I am using LLM models daily for coding everything because I am a beginner right now.
 - 📫 How to reach me: Networkservercali@gmail.com
 
 <!---
